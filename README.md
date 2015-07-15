@@ -129,33 +129,23 @@ GITHUB
 Where to download the latest version, 
 	https://github.com/Qatar-Computing-Research-Institute/ArabicPOSTLib
 
-
 LICENSE
 ------------
-This code is licensed under the LGPL except the binaries and libraries in the depadencies which 
+Arabic POS Tagger Library code is made public for RESEARCH purpose only, except the binaries and libraries in the depadencies which 
 have their own licenses, listed below.  See the references in these files for more details.  
  - CRF++
  - KenLM
 
 For the rest:
 
-    Arabic POS Tagger Library is a free software: you can redistribute it and/or modify
-    it under the terms of the GNU Lesser General Public License as published
-    by the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    Arabic POS Tagger Library is being made public for researhc purpose only. 
+    QATARA Library is being made public for research purpose only. 
     For non-research use, please contact:
         Kareem M. Darwish <kdarwish@qf.org.qa>
         Ahmed Abdelali <aabdelali@qf.org.qa>
     
     This library is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU Lesser General Public License for more details.
-
-    You access a copy of the GNU Lesser General Public License
-    at <http://www.gnu.org/licenses/>.
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
 
 
 COPYRIGHT
